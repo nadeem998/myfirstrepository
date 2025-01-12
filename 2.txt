@@ -1,2 +1,3 @@
 This file2.txt
 adding new line in this
+This line was added in our local git repository
